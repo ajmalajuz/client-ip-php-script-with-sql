@@ -1,0 +1,25 @@
+  How to istall this script in your website.
+  
+  By using this script you can grab your website visitors remote ip address,
+  Browser, OS version,Device Model (Phone)
+  
+  ● Open script.php in your Note Pad and copy code.
+  ● Open your index file(or page which you want monitor) paste 
+     script.php code top of your file. 
+      (if it's an html file-paste above the <!Doctype html>,and rename it into index.php)
+      
+        * Configure db.php and view.php
+        * open db.php and add your MySQL database details in there.
+        * open view.php and add your MySQL database details in there.
+  
+  * upload db.php into same folder as where the above index file is located.
+  * upload view.php to same domain folder (anywhere in htdocs/public_html)
+  * Open PHP My Admin select your database which you add above in db.php and view.php
+  * import ajuz.sql into there.
+  
+  // To view the ip details browse     yourdomain.com/folder which you upload view.php file/view.php
+   
+   all done ♡♡♡
+   
+   script by Ajmal ajuzz
+   https://github.com/ajmalajuz/
